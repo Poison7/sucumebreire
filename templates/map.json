@@ -1,0 +1,131 @@
+{
+"Corn":{
+    "name":"cornos.png",
+    "x":2100,
+    "y":-9192,
+    "width":237,
+    "height":310
+        },
+"BaseFull":{
+    "name":"1BASEFULL.png",
+    "x":-19073,
+    "y":-23552,
+    "width":1329,
+    "height":1713
+        },
+"pozecorno":{
+    "name":"pzPB.png",
+    "x":-15001,
+    "y":-10001,
+    "width":284,
+    "height":188
+        },
+"sususu":{
+    "name":"sus.png",
+    "x":-143,
+    "y":-193,
+    "width":137,
+    "height":149
+        },
+"Mega_Flag":{
+    "name":"Mega_Flag_3.0.png",
+    "x":-9507,
+    "y":2128,
+    "width":1943,
+    "height":1161
+        },
+"demoninhos_MAR":{
+    "name":"demoninhos.png",
+    "x":-13678,
+    "y":20132,
+    "width":364,
+    "height":408
+        },
+"diabin":{
+    "name":"diabin.png",
+    "x":-15083,
+    "y":21320,
+    "width":217,
+    "height":171
+        },
+"anime":{
+    "name":"anime.png",
+    "x":-15832,
+    "y":21633,
+    "width":399,
+    "height":376
+        },
+"AyudaGrecia":{
+    "name":"Grecia_1.png",
+    "x":3781,
+    "y":-8022,
+    "width":355,
+    "height":59
+        },
+ "ilha":{
+    "name":"ilha.png",
+    "x":-13744,
+    "y":19633,
+    "width":350,
+    "height":526
+        },
+ "sharingan":{
+    "name":"sharingan.png",
+    "x":-15019,
+    "y":22192,
+    "width":351,
+    "height":351
+        },
+ "homi":{
+    "name":"homi.png",
+    "x":-15954,
+    "y":20627,
+    "width":332,
+    "height":331
+        },
+    "Basecima":{
+    "name":"nuvemcima.png",
+    "x":-14897,
+    "y":20041,
+    "width":1360,
+    "height":1888
+        },
+ "everton":{
+    "name":"bahiafz.png",
+    "x":-7501,
+    "y":2157,
+    "width":365,
+    "height":242
+        },
+ "colonia1":{
+    "name":"colonia1.png",
+    "x":-31103,
+    "y":18377,
+    "width":329,
+    "height":339
+        },
+ "Snowland":{
+    "name":"snowland.png",
+    "x":2080,
+    "y":-13516,
+    "width":218,
+    "height":246
+        },
+ "MulherImensa":{
+    "name":"major2.png",
+    "x":-15594,
+    "y":20926,
+    "width":457,
+    "height":656
+        },
+ "Corna":{
+    "name":"corna.png",
+    "x":-15063,
+    "y":21740,
+    "width":400,
+    "height":440
+         }
+ 
+ 
+
+}
